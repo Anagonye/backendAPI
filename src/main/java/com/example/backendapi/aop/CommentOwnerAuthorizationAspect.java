@@ -12,7 +12,6 @@ import org.aspectj.lang.annotation.Before;
 import org.springframework.security.access.AuthorizationServiceException;
 import org.springframework.stereotype.Component;
 
-import java.security.Principal;
 
 @Aspect
 @Component

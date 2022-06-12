@@ -1,7 +1,6 @@
 package com.example.test.integration.Post.controller;
 
 import com.example.backendapi.BackendApiApplication;
-import com.example.backendapi.comment.CommentRepository;
 import com.example.backendapi.post.*;
 import com.example.backendapi.user.AppUser;
 import com.example.backendapi.user.AppUserService;

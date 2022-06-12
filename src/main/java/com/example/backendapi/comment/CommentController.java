@@ -2,7 +2,6 @@ package com.example.backendapi.comment;
 
 import com.example.backendapi.aop.CommentOwnerAuthorization;
 import com.example.backendapi.exceptions.CommentNotFoundException;
-import com.example.backendapi.post.PostService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
